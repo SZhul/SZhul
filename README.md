@@ -6,8 +6,7 @@
   </a>  
   </div> 
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
-
+  
 <h1>
 Приветствую, я Сергей
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
@@ -41,7 +40,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SZhul&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -51,7 +50,7 @@
 
 ### :writing_hand: Мои демо-проекты :
 
-<div>  <a href="https://github.com/SZhul/SeleniumTestProject">   
+<div>  <a href="https://github.com/SZhul/SeleniumTestProject">  
   :floppy_disk:  UI-автотесты, работа с HTTP, FTP и базами данных
       </a>
 </div>
