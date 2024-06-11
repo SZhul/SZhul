@@ -23,7 +23,7 @@
 
 - :zap: В данный момент работаю автоматизатором в продуктовой компании
 
-- :mailbox: Мой телеграм: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)]([your-linkedin-url](https://t.me/borodator))
+- :mailbox: Мой телеграм: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/borodator))
 </div>
 
 ---
